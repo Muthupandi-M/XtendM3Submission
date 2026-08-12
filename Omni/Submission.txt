@@ -1,0 +1,13 @@
+Customer Name: Omnicable
+
+Clarity Task or WorkOrder Number: PR-004011
+
+Tenant URL: https://mingle-portal.inforcloudsuite.com/BQ6RXG8A2G36K6BG_PRD
+
+Intended Usage: The extension is storing the how many UL label is printed. 
+
+Developer Name: Muthupandi Muniyandi(muthupandi.muniyandi1@wipro.com)
+
+Timeline for PRD Deployment: 20-August-2026
+
+Billing and Clarity task responsible: Shiva Rudroju - srudroju@omnicable.com
